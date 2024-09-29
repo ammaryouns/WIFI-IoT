@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>3813475578</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\JSONParser\source\jsmn.c</file>
+            <file>$PROJ_DIR$\HttpParser\include\http_parser.h</file>
+            <file>$PROJ_DIR$\HttpParser\include\picohttpparser.h</file>
+            <file>$PROJ_DIR$\HttpParser\source\http_parser.c</file>
+            <file>$PROJ_DIR$\Cornell.cfg</file>
+            <file>$PROJ_DIR$\Board.h</file>
+            <file>$PROJ_DIR$\CC3220SF_LAUNCHXL.h</file>
+            <file>$PROJ_DIR$\platform.c</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\ADC_Channel.h</file>
+            <file>$PROJ_DIR$\JSONParser\include\jsmn.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\platform.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\EventQ.h</file>
+            <file>$PROJ_DIR$\Cornell_CC3220SF_LAUNCHXL_TIRTOS.icf</file>
+            <file>$PROJ_DIR$\CC3220SF_LAUNCHXL.c</file>
+            <file>$PROJ_DIR$\HttpParser\source\picohttpparser.c</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\ExtCommunication.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\EventQ.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\iar\targets\arm\rts\lib\release_full\boot.arm4</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Memory.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\SDFatFS.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\package\BIOS_RtsGateProxy.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\pwm\PWMTimerCC32XX.h</file>
+            <file>$TOOLKIT_DIR$\lib\dlpp7M_tl_fc.a</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\package\Clock_TimerProxy.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\spi\SPICC32XXDMA.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SlHttpCli.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ManufacturingTestCodes.pbi</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\BIOS.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\CC3220SF_LAUNCHXL.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\TimerTask.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\platform.pbi</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Assert__prologue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\dpl\SemaphoreP.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SysTask.__cstat.et</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\posix\iar\time.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\WifiHTTPClient.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADC_Channel.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\PowerCC32XX_tirtos.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Task.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Error__epilogue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Swi.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\catalog\arm\cortexm4\tiva\ce\lib\Boot.arm4</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\xdc.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\heaps\HeapMultiBuf.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\wdt.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SlHttpCli.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\cpu.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\hal\package\Hwi_HwiProxy.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\family\arm\m3\package\package.defs.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\third_party\fatfs\ff.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Log.h</file>
+            <file>$PROJ_DIR$\configPkg\package\cfg\Cornell_prm4.orm4</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\adc\ADCCC32XX.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\hal\Hwi.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Diags__prologue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\Capture.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\dpl\lib\dpl_cc32xx.arm4</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Types__epilogue.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\platform.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\source\spawn.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\display\DisplayUart.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\wlan.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\family\arm\m3\Hwi.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\fs.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\PWM.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\FirmwareUpload.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\EventQ.pbi</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\dpl\ClockP.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\utils\List.h</file>
+            <file>$PROJ_DIR$\configPkg\package.mak</file>
+            <file>$PROJ_DIR$\Debug\Obj\SPI_Comm.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\WifiTask.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\inc\hw_memmap.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Event__epilogue.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\WatchDog.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\WifiTask.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\SPI_Comm.__cstat.et</file>
+            <file>$PROJ_DIR$\src\sysbios\sysbios.arm4</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\package\package.defs.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\iar\Release\driverlib.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\System.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\WifiTask.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\SysTask.pbi</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\I2C.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\EventQ.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\sdhost.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\display\DisplaySharp.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\WatchDog.pbi</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\ISystemSupport.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\third_party\fatfs\ffconf.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\dma\UDMACC32XX.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\simplelink.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\Timer.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\package\package.defs.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\jsmn.pbi</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\package\System_Module_GateProxy.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\iar\targets\arm\std.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\third_party\fatfs\lib\iar\m4\fatfs.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Log__prologue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\interfaces\IHwi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\WifiHTTPClient.o</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\IModule.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Diags__epilogue.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\package\Memory_HeapProxy.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADC_Channel.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\capture\CaptureCC32XX.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ADC_Channel.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\PowerManagement.__cstat.et</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\IInstance.h</file>
+            <file>$PROJ_DIR$\Debug\List\Cornell.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\picohttpparser.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\ExtCommunication.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\Power.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\Cornell.bin</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\posix\iar\sys\_internal.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\I2S.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Clock.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\picohttpparser.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\FirmwareUpload.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\udma.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\TimerTask.pbi</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\uart\UARTCC32XXDMA.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\CC3220SF_LAUNCHXL.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\http_parser.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\GPS.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\UART.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\watchdog\WatchdogCC32XX.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ManufacturingTestCodes.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SysTask.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\Watchdog.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SPI_Comm.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\PowerManagement.pbi</file>
+            <file>$PROJ_DIR$\configPkg\compiler.opt.defs</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\ADC.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\package\Main_Module_GateProxy.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\heaps\HeapBuf.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\interfaces\ITaskSupport.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\package\Task_SupportProxy.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\i2c\I2CCC32XX.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\hal\Hwi__prologue.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\PowerCC32XX_tirtos.pbi</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\third_party\fatfs\diskio.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\uart.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\Cornell.out</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Diags.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\signal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\GPS.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\WifiHTTPClient.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\sd\SDHostCC32XX.h</file>
+            <file>$PROJ_DIR$\configPkg\linker.cmd</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Semaphore.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\PowerManagement.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\rom.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\CC3220SF_LAUNCHXL.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\gpio\GPIOCC32XX.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\http_parser.o</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\net\http\lib\iar\m4\httpclient_debug.a</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\gpio.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\netapp.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\iar\targets\arm\M4.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ExtCommunication.o</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\package\package.defs.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Queue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Event__prologue.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Cornell.pbd</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\rom_patch.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\prcm.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Task__prologue.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\iar\rtos\simplelink.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\http_parser.pbi</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\spi.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\grlib\grlib.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Assert__epilogue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\trace.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\dpl\HwiP.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\sl_socket.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\timer.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\SPI.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\display\Display.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\family\arm\m3\Hwi__prologue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\porting\cc_pal.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\lib\drivers_cc32xx.arm4</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\dpl\MutexP.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART.pbi</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\IGateProvider.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\device.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\errors.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\eventreg.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\GPS.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\jsmn.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\FirmwareUpload.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\inc\hw_ints.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SlHttpCli.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\std.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\BIOS__epilogue.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\rom_map.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\interfaces\ITimer.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\TimerTask.__cstat.et</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Main.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Log__epilogue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\iar\targets\arm\rts\lib\release_full\iar.targets.arm.rts.arm4</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\inc\hw_ocp_shared.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ExtCommunication.pbi</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Task__epilogue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\third_party\fatfs\integer.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Error.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\crypto\CryptoCC32XX.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\GPIO.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\i2s\I2SCC32XXDMA.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\family\arm\m3\Hwi__epilogue.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\PowerCC32XX_tirtos.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\inc\hw_types.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\IHeap.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Error__prologue.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\WatchDog.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\platform.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\SD.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Types__prologue.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\ManufacturingTestCodes.__cstat.et</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Text.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\source\objInclusion.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Mailbox.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\posix\iar\signal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\picohttpparser.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\package\System_SupportProxy.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\pin.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\netcfg.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Assert.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\heaps\package\package.defs.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\time32.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\interfaces\package\package.defs.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\devices\cc32xx\driverlib\adc.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\grlib\lib\iar\m4\grlib.a</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\porting\user.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\knl\Event.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\hal\package\package.defs.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\BIOS__prologue.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\kernel\tirtos\packages\ti\sysbios\hal\Hwi__epilogue.h</file>
+            <file>c:\ti\xdctools_3_50_05_12_core\packages\xdc\runtime\Types.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\jsmn.o</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\net\wifi\netutil.h</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\power\PowerCC32XX.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\display\lib\display.arm4</file>
+            <file>C:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\timer\TimerCC32XX.h</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\third_party\spiffs\lib\iar\m4\spiffs.a</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\SlHttpCli.h</file>
+            <file>$PROJ_DIR$\System\SourceFiles\EventQ.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\main.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\SysTask.c</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\PowerManagement.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\WatchDog.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\SysTask.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\ManufacturingTestCodes.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\SysDef.h</file>
+            <file>$PROJ_DIR$\System\SourceFiles\ManufacturingTestCodes.c</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\WifiHTTPClient.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\WifiTask.h</file>
+            <file>$PROJ_DIR$\System\SourceFiles\FirmwareUpload.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\ExtCommunication.c</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\TimerTask.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\GPS.h</file>
+            <file>$PROJ_DIR$\System\SourceFiles\ADC_Channel.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\PowerCC32XX_tirtos.c</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\SPI_Comm.h</file>
+            <file>$PROJ_DIR$\System\SourceFiles\GPS.c</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\FirmwareUpload.h</file>
+            <file>$PROJ_DIR$\System\SourceFiles\SPI_Comm.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\PowerManagement.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\TimerTask.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\WifiHTTPClient.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\SlHttpCli.c</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\UART.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\WatchDog.c</file>
+            <file>$PROJ_DIR$\System\SourceFiles\WifiTask.c</file>
+            <file>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\posix\iar\sys\types.h</file>
+            <file>$PROJ_DIR$\System\HeaderFiles\InstrumentInfo.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 160 121</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\JSONParser\source\jsmn.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 269</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 105</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 208</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 9 229 155 239 88 141 213 77</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 213 229 239 88 141 155 77 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\HttpParser\source\http_parser.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 172</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 135</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 1 229 155 239 88 141 213 77 182 20 80 230 216 212 109 143</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 182 155 230 213 239 229 143 88 141 20 80 212 77 1 216 109</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Cornell.cfg</name>
+            <outputs>
+                <tool>
+                    <name>CUSTOM</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\platform.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 242</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 101 263 212 155 239 88 141 213 77 109 199 35 182 103 229 201 72 247 191 68 193 175 66 204 255 270 205 206 64 283 214 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 286 281 293 295</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113 45 214 268 77 239 72 128 155 178 104 237 193 229 101 182 107 203 98 256 204 283 263 255 212 88 141 103 90 5 42 150 120 161 55 153 86 227 264 41 191 66 205 64 109 213 35 29 151 106 253 244 240 115 59 114 220 152 218 260 179 6 286 247 68 175 270 206 199 201 248 46 26 176 62 18 34 190 215 225 110 43 24 180 281 167 266 21 185 246 221 79 257 295 293</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\CC3220SF_LAUNCHXL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 170</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 134</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 103 229 155 239 88 141 213 77 182 210 78 236 169 217 183 261 174 254 184 188 95 194 159 131 47 124 73 271 281 283 214 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 293 149 57 60 117 192 223 228 35 100 231 171 197 65 138 96 196 189 20 93 154 127 232 69 22 243 19 54 226 99 158 165 25 102 273 133 72 145 139</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\HttpParser\source\picohttpparser.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 122</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 251</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 229 155 239 88 141 213 77 2</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 239 88 141 2 213 229 155 77</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Cornell.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 125</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 166 12 116 170 94 177 209 163 172 269 252 140 122 242 40 168 27 146 142 32 195 241 112 76 56 85 44 222 17 272 262 274 200 108 61 87 186 173 144 81 23 53 89</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\EventQ.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 16</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 283 182 155 239 88 141 213 103 214 229 77 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 11 281 293 290</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113 45 155 107 120 178 214 268 161 41 103 256 110 179 248 106 153 220 43 180 227 239 98 18 203 215 225 55 24 86 237 281 46 229 176 253 62 34 190 104 152 218 260 264 128 6 283 11 182 90 29 151 5 88 141 213 26 77 244 240 42 150 115 59 114 266 21 185 246 221 167 79 257 293 290</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 252</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 238</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 235</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 182 155 239 88 141 213 5 6 231 196 103 229 77 138 133 72 192 35 124 73 271 236 169 217 183 254 100 184 283 214 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 11 281 293 290 286 101 263 212 109 199 201 247 191 68 193 175 66 204 255 270 205 206 64 295 289 279</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120 113 268 179 103 106 178 214 220 182 236 45 237 293 283 167 192 73 41 240 59 114 161 256 79 101 138 90 213 155 46 62 227 115 225 86 5 175 231 281 239 88 141 229 124 217 248 26 176 203 42 150 98 266 153 260 218 264 247 270 199 72 196 133 184 11 286 289 279 29 43 128 6 77 35 271 100 169 254 183 151 107 253 244 18 34 190 21 104 55 152 246 221 24 290 204 68 206 215 185 110 180 257 295 263 191 193 66 255 205 64 212 109 201</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\SysTask.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 142</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 138 229 155 239 88 141 213 77 182 78 145 283 103 214 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 281 293 286 101 263 212 109 199 35 201 72 247 191 68 193 175 66 204 255 270 205 206 64 295 279 289 285 31 230 216 275 2 15 11 290 280 231 124 73 271 236 169 217 183 254 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45 141 214 268 220 182 256 178 104 236 167 72 285 88 128 62 113 227 34 55 180 270 283 281 90 11 229 239 5 106 190 203 86 152 153 179 247 199 101 2 155 103 73 145 279 280 41 271 213 29 151 26 176 120 18 215 218 175 31 77 290 78 286 289 43 124 8 248 46 107 98 253 244 237 240 42 150 115 161 59 114 266 21 185 110 264 257 204 68 206 35 275 293 217 138 225 246 221 260 24 79 6 295 263 191 193 66 255 205 64 212 109 201 230 15 216 231 169 254 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\ManufacturingTestCodes.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 140</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 245</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\FirmwareUpload.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 209</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 130</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 295 182 155 239 88 141 213 283 103 214 229 77 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 11 281 293 290 286 101 263 212 109 199 35 201 72 247 191 68 193 175 66 204 255 270 205 206 64 15</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 227 182 151 45 113 246 120 214 42 161 203 24 86 77 237 150 178 185 268 55 256 179 191 101 281 29 26 239 98 266 221 103 283 205 155 286 90 128 5 106 253 244 240 115 59 114 220 21 43 180 295 66 64 109 11 15 88 141 213 41 248 46 229 107 176 62 18 34 190 104 215 152 153 225 110 218 260 264 6 167 263 193 255 212 201 79 257 293 290 204 247 68 175 270 206 199 35 72</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\ExtCommunication.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 177</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 224</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 123</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 236 184 31 155 239 88 141 213 77 37 229 182 258 259 249 304 126 162 212 109 250 51 15 281 103 283 214 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 293 11 290 9 286 101 263 199 35 201 72 247 191 68 193 175 66 204 255 270 205 206 64 295</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42 229 214 45 268 161 256 239 90 11 304 5 203 237 150 178 110 120 179 113 295 64 212 281 77 213 283 182 128 107 155 153 220 43 180 66 101 31 15 293 88 141 258 126 103 29 151 106 253 244 227 240 115 215 225 55 24 86 191 205 35 184 37 250 9 286 249 259 162 109 51 41 248 46 26 176 98 62 18 34 190 104 152 218 260 264 6 167 263 193 255 72 236 59 114 266 21 185 246 221 79 257 290 204 247 68 175 270 206 199 201</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\ADC_Channel.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 116</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 182 155 239 88 141 213 229 77 149 103 57 5 6 283 214 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 281 293 8 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113 179 55 26 221 268 62 227 34 214 86 103 178 120 260 167 31 248 239 45 220 104 161 24 180 5 77 182 6 176 253 190 203 152 246 149 281 293 155 41 46 98 106 18 215 256 153 225 237 264 128 229 57 283 8 88 141 213 90 29 151 107 244 240 42 150 115 59 114 266 21 185 110 218 43 79 257</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\PowerCC32XX_tirtos.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 157</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 234</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 182 155 239 88 141 213 41 214 229 77 107 176 45 268 244 178 62 120 185 86 227 240 220 113 237 18 115 203 150 42 256 34 161 59 114 190 55 110 246 221 179 152 260 128 218 43 24 153 225 67 198 52 29 266 104 21 215 111 233 236 184 49 169 217 183 124 103 73 271 254 281 283 90 98 253 106 248 264 180 79 167 151 257 46 5 6 293</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 178 128 161 239 214 268 45 220 237 246 113 229 217 227 155 120 34 104 73 254 293 90 256 167 236 213 153 244 190 221 179 260 152 5 203 264 41 49 271 88 141 185 26 77 182 86 24 198 111 183 124 6 67 184 169 281 55 225 107 176 62 240 42 150 18 115 59 114 110 218 43 215 21 103 29 151 106 253 98 180 52 233 266 283 248 46 79 257</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\GPS.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 163</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 207</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 136</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 290 5 6 283 182 155 239 88 141 213 103 214 229 77 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 281 293 212 109 230 216 231 138 15 11 289 271 73 124 236 169 217 183 254</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45 268 281 161 155 256 113 227 21 41 5 213 178 214 124 138 90 239 115 120 237 264 182 293 128 106 253 244 240 59 114 220 203 230 289 29 151 88 141 26 77 42 150 98 266 185 246 221 218 260 152 179 103 254 212 283 231 15 271 6 248 46 229 107 176 62 18 34 190 104 215 86 55 153 225 110 43 24 180 167 169 290 79 257 109 216 11 73 236 217 183</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\SPI_Comm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 146</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 182 155 239 88 141 213 5 6 231 196 103 229 77 293 43 214 107 176 45 268 244 178 62 120 86 227 240 220 113 237 18 115 203 150 42 256 34 161 59 114 190 55 110 246 221 179 167 41 185 152 260 128 218 24 153 225 264 180 79 283 90 98 253 106 29 266 104 21 215 248 151 257 46 281 286 101 263 212 109 199 35 201 72 247 191 68 193 175 66 204 255 270 205 206 64 295 11 290 15 285 31 230 216 275 2 289</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59 24 45 283 268 114 55 253 182 179 103 11 77 167 178 120 161 21 293 214 256 260 86 29 203 204 35 229 101 5 155 231 281 15 295 6 239 26 176 62 113 227 237 41 152 79 151 68 206 275 196 286 290 285 90 289 88 141 213 43 107 244 240 42 150 115 220 110 153 225 128 98 266 264 247 175 270 199 72 31 2 18 34 190 246 221 185 218 180 248 46 106 104 215 257 263 191 193 66 255 205 64 212 109 201 230 216</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\PowerManagement.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 168</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 147</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 182 155 239 88 141 213 5 6 43 214 229 77 107 176 45 268 244 178 62 120 86 227 240 220 113 237 18 115 203 150 42 256 34 161 59 114 190 55 110 246 221 179 283 103 90 98 253 106 29 266 104 21 215 41 185 152 260 128 218 24 153 225 248 264 180 79 167 151 257 46 290 281 293 289 279 11 231 236 217 183 49 124 73 271 169 254 286 101 263 212 109 199 35 201 72 247 191 68 193 175 66 204 255 270 205 206 64 295 184</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 268 42 5 104 257 113 244 220 45 106 86 286 115 178 214 182 109 11 120 150 227 90 215 179 169 295 64 290 49 213 161 155 239 237 128 98 203 225 256 79 283 293 66 103 43 289 236 124 88 141 26 77 240 59 114 110 29 151 253 153 218 260 264 167 101 191 205 281 279 231 217 271 184 6 55 229 107 176 62 18 34 190 246 221 41 248 46 266 21 152 24 254 263 193 255 212 201 185 180 183 73 204 247 68 175 270 206 199 35 72</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\TimerTask.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 219</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 289 283 182 155 239 88 141 213 103 214 229 77 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 280 281 293 231 11 290 124 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 203 253 45 214 128 290 176 178 86 237 179 227 220 113 268 190 293 41 104 152 218 260 161 6 124 46 229 155 62 34 55 153 256 264 182 283 103 248 107 239 98 106 120 18 215 225 110 43 24 180 5 280 11 90 29 151 88 141 213 26 77 244 240 42 150 115 59 114 266 21 185 246 221 167 231 289 79 257 281 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\WifiHTTPClient.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 112</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 164</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 285 31 155 239 88 141 213 77 230 216 275 212 109 103 214 229 107 176 182 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 101 263 199 35 201 72 247 191 68 193 175 66 204 255 270 205 206 64 2 283 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 286 281 293 295 15 11 290 280 231</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45 214 113 264 101 77 18 178 199 120 283 213 182 203 268 247 90 246 86 281 5 275 239 212 286 26 106 270 103 185 218 179 227 151 295 31 2 155 88 141 216 15 109 256 62 220 34 190 175 128 266 161 221 260 24 55 79 257 293 280 230 11 204 229 107 176 98 253 244 237 240 42 150 115 59 114 68 206 201 29 21 167 41 43 231 285 263 191 193 66 255 205 64 35 72 248 46 104 215 152 153 225 110 180 6 290</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\SlHttpCli.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 211</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 275 212 155 239 88 141 213 77 109 103 214 229 107 176 182 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 101 263 199 35 201 72 247 191 68 193 175 66 204 255 270 205 206 64 2 283 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 286 281 293 295 15 11 290 31 230 216 280 231</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 109 45 15 107 182 152 214 42 161 203 191 227 218 77 155 253 237 150 178 120 205 35 103 229 101 104 260 268 5 280 2 213 239 176 113 98 66 64 86 128 179 6 283 31 212 286 88 141 244 240 115 59 114 220 263 193 255 72 248 55 153 256 264 41 204 293 230 90 26 106 62 18 34 190 247 68 175 270 206 199 201 46 215 225 110 43 24 180 281 167 11 290 231 275 29 151 266 21 185 246 221 79 257 295 216</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\UART.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 195</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 202</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 137</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 103 229 155 239 88 141 213 77 182 230 216 192 138</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 155 103 192 182 77 239 229 230 138 88 141 213 216</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\WatchDog.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 241</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 280 281 103 182 155 239 88 141 213 283 214 229 77 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 293 231 279</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 268 120 225 86 24 239 98 203 5 214 113 55 155 90 18 178 215 179 283 182 128 107 106 45 256 153 110 220 43 161 180 227 151 279 231 103 29 229 176 253 62 34 190 104 152 218 260 237 264 41 257 281 293 88 141 213 248 46 26 77 244 240 42 150 115 59 114 266 21 185 246 221 167 79 280 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\System\SourceFiles\WifiTask.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148 286 101 263 212 155 239 88 141 213 77 109 199 35 182 103 229 201 72 247 191 68 193 175 66 204 255 270 205 206 64 283 214 107 176 90 45 268 244 178 62 113 237 120 227 240 220 203 150 42 18 115 256 34 161 59 114 190 98 253 106 29 266 104 21 215 41 185 86 55 110 246 221 179 152 260 128 218 43 24 153 225 248 264 180 79 167 151 257 46 5 6 281 293 295 285 31 230 216 275 2 15 11 290 10 9 280 231 124 73 271 236 169 217 183 254 58 156 265 111 50 267 67 198 52 233</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 204 182 45 98 120 239 227 191 240 161 113 24 86 58 101 205 155 213 35 229 5 55 256 293 50 267 11 295 66 64 109 90 268 150 178 104 152 214 275 111 52 10 124 283 263 193 255 212 77 88 141 72 103 128 107 253 244 237 18 203 59 114 215 153 220 43 179 180 169 156 285 9 280 271 281 247 68 175 270 206 199 201 29 151 42 115 225 110 218 260 264 41 6 31 2 290 231 254 183 233 286 248 46 26 176 106 62 34 190 266 21 185 246 221 167 79 257 230 15 216 73 236 217 265 67 198</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\JSONParser\source\jsmn.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\HttpParser\source\http_parser.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\platform.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\CC3220SF_LAUNCHXL.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\HttpParser\source\picohttpparser.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\EventQ.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\main.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\SysTask.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\ManufacturingTestCodes.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\FirmwareUpload.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\ExtCommunication.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\ADC_Channel.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\PowerCC32XX_tirtos.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\GPS.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\SPI_Comm.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\PowerManagement.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\TimerTask.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\WifiHTTPClient.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\SlHttpCli.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>c:\ti\simplelink_cc32xx_sdk_2_10_00_04\source\ti\drivers\UART.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\WatchDog.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\System\SourceFiles\WifiTask.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>

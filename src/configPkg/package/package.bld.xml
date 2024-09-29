@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--  This file conforms to the DTD xdc/bld/build.dtd -->
+<package name="configPkg" version="" producerId="undefined">
+    <units>
+    </units>
+    <sources>
+        <srcFile name="package/cfg/Cornell_prm4.c"/>
+    </sources>
+    <configscripts>
+        <srcFile name="D:/ISC/Cornell/Cornell_FW/Cornell_V1/Build19/Build19/src/Cornell.cfg"/>
+    </configscripts>
+    <makefiles>
+        <srcFile name="package.mak" src="package.bld"/>
+        <srcFile name="package/package.xdc.dep" src="package.xdc"/>
+        <srcFile name="package/cfg/Cornell_prm4.mak" src="package.bld"/>
+        <srcFile name="package/cfg/Cornell_prm4.orm4.dep" src="package/cfg/Cornell_prm4.c"/>
+        <srcFile name="package/cfg/Cornell_prm4.dep" src="package/cfg/Cornell_prm4.cfg"/>
+        <srcFile name="package/cfg/Cornell.xrm4.mak" src="package.bld"/>
+        <srcFile name="package/rel/configPkg.tar.dep" src="package/rel/configPkg.xdc.inc"/>
+    </makefiles>
+    <targets>
+        <target name="iar.targets.arm.M4"
+            version="iar.targets.arm.M4{1,0,8.22,1"
+            rawVersion="8.22.1.15669"
+            platform="ti.platforms.tiva:TM4C1294NCPDT:1"
+            isa="v7M4"
+            suffix="rm4"
+            rootDir="C:/PROGRA~2/IARSYS~1/EMBEDD~1.0/arm"
+            os="undefined"
+            rts="iar.targets.arm.rts">
+            <model endian="little"
+                codeModel="thumb2"
+                dataModel="undefined"/>
+        </target>
+    </targets>
+    <libraries>
+    </libraries>
+    <configurations>
+    <configuration name="Cornell"
+        pname="Cornell.prm4"
+        target="iar.targets.arm.M4"
+        platform="ti.platforms.simplelink:CC3220SF"
+        profile="release_full"
+        isPartial="false"
+        xCfgScript="package/cfg/Cornell_prm4.cfg"
+        xCfgPrefix="package/cfg/Cornell_prm4"
+        cfgScript="D:/ISC/Cornell/Cornell_FW/Cornell_V1/Build19/Build19/src/Cornell.cfg"
+        cfgArgs="null"
+        />
+    </configurations>
+    <executables>
+    <executable name="Cornell"
+        pname="Cornell.xrm4"
+        target="iar.targets.arm.M4"
+        platform="ti.platforms.simplelink:CC3220SF"
+        profile="release_full"
+        xCfgScript="package/cfg/Cornell_prm4.cfg"
+        xCfgPrefix="package/cfg/Cornell_prm4"
+        cfgScript="D:/ISC/Cornell/Cornell_FW/Cornell_V1/Build19/Build19/src/Cornell.cfg"
+        cfgArgs="null"
+        />
+    </executables>
+    <tests>
+    <test exeName="Cornell.xrm4"
+        args=""
+        groupName="Cornell.xrm4"
+        refOutput="undefined"
+        refExitCode="0"
+        execArgs=""
+        />
+    </tests>
+    <releases relDir="package/rel/">
+    <release name="configPkg"
+        pname="configPkg.tar"
+        label="default"
+    >
+        <file name="package/package.bld.xml"/>
+        <file name="package/build.cfg"/>
+        <file name="package/package.xdc.inc"/>
+    </release>
+    </releases>
+    <repositories>
+    </repositories>
+</package>
